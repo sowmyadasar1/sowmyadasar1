@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sowmya.
 
 I write code. It works most of the time.  
-I build things because that’s what I enjoy, even if it means **debugging for hours** and pretending I know what I’m doing.
+I build things because that’s what I enjoy, even if it means debugging for hours and pretending I know what I’m doing.
 
 ## 🔧 **What I Do:**
 - I build **web applications** using **HTML**, **CSS**, **JavaScript**, and **React**. (You can thank Bootstrap for making me look like I know what I’m doing.)
